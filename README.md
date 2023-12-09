@@ -9,6 +9,6 @@ A Raspberry Pi Zero W based interactive wearable project
 - [Inspirations](./Inspirations/)
 - [References](./References/)
 - [Materials](./Materials/)
-- [Media](./Media/)
+- [Media](./media/)
 - [Schematic](./Schematic/)
 - [Analysis_Future_Work](./Analysis_Future_Work/)
