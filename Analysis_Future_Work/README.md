@@ -10,4 +10,6 @@ This also brings forth considerations regarding personal and social requirements
 
 My project, as a social wearable, not only incorporates important technological aspects but also carefully considers its impact and role in a social context. It embodies a fusion of personal expression and social interaction, fitting well within the framework's guidelines for social wearables.
 
+[Reference](https://dl.acm.org/doi/10.1145/3322276.3322291)
+
 # Future Work
