@@ -1,6 +1,6 @@
 # Interactive-Wearable-Pendant
 
-A Raspberry Pi Zero W based interactive wearable project
+A Arduino Nano 33 IoT based interactive wearable project
 
 [Documentation Journal](https://swostikpati-itw.framer.website/)
 
