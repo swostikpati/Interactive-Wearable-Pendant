@@ -13,3 +13,9 @@ My project, as a social wearable, not only incorporates important technological 
 [Reference](https://dl.acm.org/doi/10.1145/3322276.3322291)
 
 # Future Work
+
+- **Application Control** - To enhance the interactivity of the wearable, the next phase will explore the possibility of reestablishing a stable network connection with the Raspberry Pi or implementing a server on the Arduino. This will allow for a seamless user experience and provide the option to control the wearable through a mobile application.
+
+- **Sensing Emotions** - The project will aim to delve into more sophisticated sensing technologies, employing a diverse array of sensors. The objective is to gain a more nuanced understanding of the wearer's emotional states, which will enable the wearable to respond with greater accuracy and sensitivity.
+
+- **Better Form Factor** - Future iterations will prioritize the design's integration into daily wear. The focus will be on refining the form factor to create a more ergonomic and discreet wearable experience, ensuring that the pendant is not only functionally efficient but also aesthetically and practically suitable for everyday use.
