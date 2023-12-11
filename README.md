@@ -9,6 +9,6 @@ A Arduino Nano 33 IoT based interactive wearable project
 - [Inspirations](./Inspirations/)
 - [References](./References/)
 - [Materials](./Materials/)
-- [Media](./media/)
+- [Media](./Media/)
 - [Schematic](./Schematic/)
 - [Analysis_Future_Work](./Analysis_Future_Work/)
