@@ -1,6 +1,6 @@
 # Interactive-Wearable-Pendant
 
-A Arduino Nano 33 IoT based interactive wearable project
+An Arduino Nano 33 IoT based interactive wearable project
 
 [Documentation Journal](https://swostikpati-itw.framer.website/)
 
